@@ -22,6 +22,6 @@ first_element_with_array_methods(a)
   a.first 
 end
 
-first_element_with_array_methods(a)
+last_element_with_array_methods(a)
   a.first 
 end
