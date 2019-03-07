@@ -7,11 +7,11 @@ def array_with_two_elements
 end
 
 def first_element(a)
-  a[1]
+  a[0]
 end
 
 def third_element(a)
-  a[3]
+  a[2]
 end
 
 def last_element(a)
