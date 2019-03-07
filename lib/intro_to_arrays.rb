@@ -18,10 +18,10 @@ def last_element(a)
   a[-1]
 end
 
-first_element_with_array_methods(a)
+def first_element_with_array_methods(a)
   a.first 
 end
 
-last_element_with_array_methods(a)
+def last_element_with_array_methods(a)
   a.last
 end 
